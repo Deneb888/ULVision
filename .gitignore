@@ -1,0 +1,5 @@
+*.txt
+Debug
+ipch
+Release
+*.suo
